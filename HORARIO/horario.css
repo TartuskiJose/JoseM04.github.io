@@ -1,0 +1,52 @@
+body{
+    background-color: darkmagenta;
+}
+button:hover{
+    background-color: yellow;
+}
+a{
+    color: black;
+}
+#dias{
+    background-color: white;
+}
+#horas{
+    background-color: rgba(253, 140, 159, 0.699);
+    color: white;
+}
+#m01{
+    background-color: rgba(118, 243, 60, 0.856);
+}
+#m02{
+    background-color: rgba(0, 174, 255, 0.788);
+}
+#m03{
+    background-color: rgba(247, 73, 73, 0.705);
+}
+#m04{
+    background-color: rgb(245, 245, 94);
+}
+#m05{
+    background-color: rgba(250, 159, 40, 0.986);
+}
+#m12l{
+    color: white;
+}
+#m12{
+    background-color: black;
+}
+#m13{
+    background-color: black;
+}
+#m13l{
+    color: white;
+}
+#patio{
+    background-color: white;
+}
+#tuto{
+    background-color: black;
+}
+#tuto1{
+    color: white;
+}
